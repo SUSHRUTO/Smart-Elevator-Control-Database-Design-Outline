@@ -160,6 +160,7 @@ This ensures operational reliability.
 
 ## 📂 Project Structure
 
+```plaintext id="k3l9px"
 smart-elevator-db-design/
 │
 ├── er-diagram/
